@@ -1,4 +1,4 @@
-this is a fork from https://github.com/1j01/pipes
+this is a fork with the ability to set speed from https://github.com/1j01/pipes
 =================================================
 
 
